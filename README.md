@@ -75,8 +75,8 @@ VoiceNotesApp/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/voice-notes-app.git
-cd voice-notes-app
+git clone https://github.com/yourusername/EchoNote.git
+cd EchoNote
 ```
 
 2. Open the project in Xcode
