@@ -4,7 +4,6 @@ A beautiful, native iOS voice recording app built with SwiftUI, inspired by Appl
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-iOS%2017.0+-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## ✨ Features
 
@@ -189,29 +188,19 @@ Contributions are welcome! Please follow these steps:
 - Write unit tests for new features
 - Update documentation as needed
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Your Name**
 - GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
 
 ## 🙏 Acknowledgments
 
 - Inspired by Apple's Voice Memos app
 - Icons from SF Symbols
-- Community feedback and contributions
 
 ## 📞 Support
 
 If you have any questions or run into issues:
-- Open an [Issue](https://github.com/yourusername/voice-notes-app/issues)
-- Start a [Discussion](https://github.com/yourusername/voice-notes-app/discussions)
-- Email: your.email@example.com
+- Email: tanmaymandal112233@email@gmail.com
 
 ---
-
-⭐️ If you like this project, please give it a star on GitHub!
