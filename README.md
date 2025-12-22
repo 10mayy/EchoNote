@@ -201,6 +201,6 @@ Contributions are welcome! Please follow these steps:
 ## 📞 Support
 
 If you have any questions or run into issues:
-- Email: tanmaymandal112233@email@gmail.com
+- Email: tanmaymandal112233@gmail.com
 
 ---
