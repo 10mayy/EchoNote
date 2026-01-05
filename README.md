@@ -191,7 +191,7 @@ Contributions are welcome! Please follow these steps:
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/10mayy)
+- GitHub: [@10mayy](https://github.com/10mayy)
 
 ## 🙏 Acknowledgments
 
